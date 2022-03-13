@@ -1,0 +1,279 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "tiled/maps",
+        "tiled/tilesets",
+        "tilesets",
+        "src/images"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "#All items": {
+            "scaleInDock": 1
+        },
+        "#land": {
+            "scaleInDock": 1
+        },
+        "#land-decorations": {
+            "scaleInDock": 1
+        },
+        "#water": {
+            "scaleInDock": 1
+        },
+        "#water-decorations": {
+            "scaleInDock": 1
+        },
+        "community-garden.xml": {
+            "scale": 2,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 334.75,
+                "y": 433
+            }
+        },
+        "community-garden.xml#bridges": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "community-garden.xml#fields": {
+            "scaleInDock": 5.5,
+            "scaleInEditor": 1
+        },
+        "community-garden.xml#foliage": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "community-garden.xml#land": {
+            "scaleInDock": 2,
+            "scaleInEditor": 8
+        },
+        "community-garden.xml#land-decorations": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "community-garden.xml#water": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "community-garden.xml#water-decorations": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "community-garden.xml#well": {
+            "scaleInDock": 1,
+            "scaleInEditor": 11
+        },
+        "community-garden.xml#workbench": {
+            "scaleInDock": 1,
+            "scaleInEditor": 16
+        },
+        "tiled/maps/community-garden.tmx": {
+            "scale": 4,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 122.25,
+                "y": 185
+            }
+        },
+        "tiled/tilesets/All items.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/Barn structures.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/Basic Furniture.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 4
+        },
+        "tiled/tilesets/Boats.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        },
+        "tiled/tilesets/Brown cow animations.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/Chest.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/Farming Plants.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/Fence gates animation sprites.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/Fences.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/Hills.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 3,
+            "scaleInEditor": 5.5
+        },
+        "tiled/tilesets/Mushrooms, Flowers, Stones.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/Paths.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/Piknik basket.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/Piknik blanket.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/Premium Charakter Spritesheet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/STONE PATH.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/Tilled Dirt.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/Trees, stumps and bushes.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 2,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/Water Objects.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "tiled/tilesets/Water tray.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/Water well.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/Water.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 5.5,
+            "scaleInEditor": 8
+        },
+        "tiled/tilesets/Wood Bridge.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/Wooden House.tsx": {
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/baby brown cow animations sprites.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/bridges.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1
+        },
+        "tiled/tilesets/door animation sprites.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/item shadow.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/signs.tsx": {
+            "scaleInDock": 4,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/tools.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/tree sprites.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/water from water can frames.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/well.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/work station.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 3,
+            "scaleInEditor": 1
+        },
+        "tiled/tilesets/workbench.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tilesets/water.tmx": {
+            "scale": 1.0633522727272728,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 248.27144002137322,
+                "y": 256.73523911301095
+            }
+        },
+        "tilesets/water.tmx#water": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/ben/Documents/community-garden/src/data",
+    "last.imagePath": "/Users/ben/Downloads/Sprout Lands - Sprites - premium pack/objects/Items",
+    "map.height": 1,
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 1,
+    "openFiles": [
+    ],
+    "project": "community-garden.tiled-project",
+    "property.type": "bool",
+    "recentFiles": [
+        "community-garden.xml",
+        "tilesets/water.tmx",
+        "tiled/tilesets/Water.tsx",
+        "tiled/tilesets/well.tsx",
+        "tiled/tilesets/workbench.tsx",
+        "tiled/maps/community-garden.tmx",
+        "tiled/tilesets/Water Objects.tsx",
+        "tiled/tilesets/Boats.tsx",
+        "tiled/tilesets/Hills.tsx",
+        "tiled/tilesets/Fences.tsx",
+        "tiled/tilesets/baby brown cow animations sprites.tsx",
+        "tiled/tilesets/Barn structures.tsx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
