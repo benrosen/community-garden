@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "",
+    "activeFile": "community-garden.xml",
     "expandedProjectPaths": [
         "tiled/maps",
         "tiled/tilesets",
@@ -29,10 +29,10 @@
         },
         "community-garden.xml": {
             "scale": 2,
-            "selectedLayer": 5,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 334.75,
-                "y": 433
+                "x": 79.25,
+                "y": 381.75
             }
         },
         "community-garden.xml#bridges": {
@@ -253,6 +253,7 @@
     "map.tileWidth": 16,
     "map.width": 1,
     "openFiles": [
+        "community-garden.xml"
     ],
     "project": "community-garden.tiled-project",
     "property.type": "bool",
