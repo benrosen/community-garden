@@ -48,6 +48,7 @@ export const Toolbar = () => {
           <ToggleButton value={Tool.PLANTING}>
             <Box sx={{ width: "100%" }}>
               <img
+                alt="sixteen-bit brown paper seed packet"
                 src={seeds}
                 style={{
                   height: "2rem",
@@ -66,6 +67,7 @@ export const Toolbar = () => {
           <ToggleButton value={Tool.WATERING}>
             <Box sx={{ width: "100%" }}>
               <img
+                alt="sixteen-bit metal watering can with the spout facing left"
                 src={wateringCan}
                 style={{
                   height: "2rem",
@@ -83,6 +85,7 @@ export const Toolbar = () => {
           </ToggleButton>
           <ToggleButton sx={{ pt: 2.5, pb: 2.5 }} value={Tool.HARVESTING}>
             <img
+              alt="sixteen-bit wood-handled ax facing left"
               src={ax}
               style={{
                 height: "2rem",
