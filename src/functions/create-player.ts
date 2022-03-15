@@ -1,5 +1,4 @@
-import { Input, Scene } from "phaser";
-
+import { Scene } from "phaser";
 import { createPlayerAnimations } from "./create-player-animations";
 
 export const createPlayer = (scene: Scene) => {

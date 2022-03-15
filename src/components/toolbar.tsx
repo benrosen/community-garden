@@ -5,7 +5,6 @@ import {
   ToggleButton,
   ToggleButtonGroup,
 } from "@mui/material";
-import { ContentCut, Park, Shower } from "@mui/icons-material";
 
 import { GameStateContext } from "./game-state-context";
 import { Intent } from "../definitions/intent";
