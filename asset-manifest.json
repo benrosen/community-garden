@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/community-garden/static/js/main.4028908b.js",
+    "main.js": "/community-garden/static/js/main.faae2bd3.js",
     "static/js/787.e6000453.chunk.js": "/community-garden/static/js/787.e6000453.chunk.js",
     "index.html": "/community-garden/index.html",
-    "main.4028908b.js.map": "/community-garden/static/js/main.4028908b.js.map",
+    "main.faae2bd3.js.map": "/community-garden/static/js/main.faae2bd3.js.map",
     "787.e6000453.chunk.js.map": "/community-garden/static/js/787.e6000453.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.4028908b.js"
+    "static/js/main.faae2bd3.js"
   ]
 }
