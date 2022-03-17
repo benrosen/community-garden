@@ -7,8 +7,6 @@ export const createMapLayers = (map: Tilemaps.Tilemap) => {
       layerData.name,
       map.getTileset(layerData.name)
     );
-
-    // layer.setCollisionByProperty({ isWalkable: false });
-    // isObstacle, isInteractive
+    layer.setCollisionByProperty({ isObstacle: true });
   });
 };

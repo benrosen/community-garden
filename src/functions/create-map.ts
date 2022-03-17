@@ -6,4 +6,5 @@ export const createMap = (scene: Scene) => {
   const map = scene.make.tilemap({ key: "map" });
   createMapTilesets(map);
   createMapLayers(map);
+  return map;
 };
